@@ -1,0 +1,30 @@
+So this was something I stumbled upon a few months back while messing about... But it worked quite well 
+
+Software: 
+= Caputure 
+= OBS
+= NDI Plug in https://github.com/Palakis/obs-ndi
+= Qlab (Duh)
+
+Hardware
+= 2nd Monitor 
+= a couple network cables
+= an adaptor of some sort to network cable (everything is a dongle after 2013...) 
+= Network switch 
+
+So pretty much the idea is putting qlab playback in to capture, while working on a festival as AV tech we was working on hypertheticals. This was one of them 
+
+Pretty much ( You will find I say that alot) 
+
+OBS > Qlab output screen 
+OBS > NDI > Capture
+
+So this was a bit complicated but it worked well. 
+
+From memory Capture needed to be on a similar range of IP address (/shug is what it is)
+
+Set the NDI feed as a material and paste it on your wall your using. 
+
+I mean I never said this was great but it certainly gives you a chance to pre vis stuff, then once you get in the venue all you have to do its projection map.
+
+GG 
