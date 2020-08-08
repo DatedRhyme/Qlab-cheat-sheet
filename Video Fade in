@@ -1,0 +1,10 @@
+I still dont know if I'm doing this wrong.... but sure lets go with it.
+
+Create a video cue, in qlab. 
+set the opacity to 0% 
+
+Put a fade cue and link in to the video cue, fade up to 100% 
+
+Put them both in a group, set the group to start all children simultaneously 
+
+When fading the video file, fade the *Group* it works better. 
