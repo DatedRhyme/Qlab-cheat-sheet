@@ -1,0 +1,20 @@
+Add IP Addresses into projector manager, projectors are numbered as listed in PM 
+------
+Open Projector
+------
+tell application "ProjectorManager"
+	AvUnMute 1
+end tell
+------
+Close Projector 
+------
+tell application "ProjectorManager"
+	AvMute 1
+end tell
+------
+Shutdown Projector
+------
+tell application "ProjectorManager"
+	PowerOff 1
+end tell
+-------
